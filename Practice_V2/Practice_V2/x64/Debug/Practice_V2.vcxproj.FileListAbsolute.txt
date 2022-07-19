@@ -1,0 +1,2 @@
+C:\Users\Андрей\Desktop\Practice_V2\Practice_V2\x64\Debug\Practice_V2.vcxproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Practice_V2\Practice_V2\x64\Debug\Practice_V2.vcxproj.SuggestedBindingRedirects.cache
